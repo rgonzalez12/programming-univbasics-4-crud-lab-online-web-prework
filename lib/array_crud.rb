@@ -19,8 +19,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal"]
-  the_cannibal = killers.pop
+  killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  arrays = killers.pop
   p killers
 end
 
