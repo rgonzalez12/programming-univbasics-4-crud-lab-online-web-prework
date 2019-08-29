@@ -48,5 +48,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
+  killers = ["am", "wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  
 
 end
