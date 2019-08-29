@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
-  array = killers.pop
+  remove_element_from_end_of_array= killers.pop
   p killers
 end
 
