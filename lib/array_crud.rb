@@ -14,8 +14,8 @@ end
 
 def add_element_to_start_of_array(array, element)
   killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal"]
-  killers[0]
-  
+  killers.unshift("first")
+  p killers
 end
 
 def remove_element_from_end_of_array(array)
