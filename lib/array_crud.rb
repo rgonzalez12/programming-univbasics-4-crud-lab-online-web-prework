@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  killers = ["wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
   array = killers.pop
   p killers
   p array
@@ -33,7 +33,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  killers = ["wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  killers
 end
 
 def retrieve_first_element_from_array(array)
