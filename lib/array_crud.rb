@@ -13,6 +13,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
+  killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal"]
+  killers.
   
 end
 
