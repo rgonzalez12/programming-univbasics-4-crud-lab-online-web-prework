@@ -33,7 +33,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  killers = ["wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  killers = ["am", "wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
   killers[0]
 end
 
