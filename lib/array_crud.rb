@@ -27,9 +27,9 @@ end
 
 def remove_element_from_start_of_array(array)
   killers = ["wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
-  wow = killers.unshift
-  
-  
+  wow = killers.shift 
+  p killers
+  p wow
 end
 
 def retrieve_element_from_index(array, index_number)
