@@ -49,6 +49,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   killers = ["am", "wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
-  killers[]
+  killers[4] = "totally"
 
 end
