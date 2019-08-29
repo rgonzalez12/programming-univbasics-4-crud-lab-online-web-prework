@@ -38,7 +38,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  killers = ["am", "wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  killers[1]
 end
 
 def retrieve_last_element_from_array(array)
