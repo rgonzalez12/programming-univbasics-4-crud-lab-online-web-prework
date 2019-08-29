@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   killers = ["The Nurse", "The Shape", "The Hillbilly", "The Cannibal"]
-  killers.push =""
+  killers.push ("The Trapper")
   
 end
 
