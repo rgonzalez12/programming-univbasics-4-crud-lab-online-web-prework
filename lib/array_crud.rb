@@ -26,6 +26,9 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
+  killers = ["wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
+  wow = killers.unshift
+  
   
 end
 
