@@ -34,7 +34,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   killers = ["wow", "The Nurse", "The Shape", "The Hillbilly", "The Cannibal", "arrays!"]
-  killers
+  killers[0]
 end
 
 def retrieve_first_element_from_array(array)
